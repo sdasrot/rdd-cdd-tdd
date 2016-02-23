@@ -10,9 +10,6 @@ A simple client to get weather in your terminal.  Instead of looking up the weat
 
 
 
-
-
-
 ![](ecrou.jpg) To begin
 --------------------------
 **1.**  Fork the project on https://github.com/92bondstreet/rdd-cdd-tdd
@@ -29,11 +26,11 @@ A simple client to get weather in your terminal.  Instead of looking up the weat
 
 
 ![](doc.jpg) Usage
-
+--------------------------
 To see all the options of the package 
 ``` node index.js --help ```
 	
-> - Example
+> - Example :
 > ``` node index.js -a courbevoie -v```
 
 	
