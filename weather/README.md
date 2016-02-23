@@ -1,5 +1,4 @@
-![enter image description here](http://fr.malineo.com/img/logo.png) ![enter image description here](http://fr.malineo.com/img/logo.png) ![enter image description here](http://fr.malineo.com/img/logo.png)
-Cli-Weather !
+![enter image description here](http://fr.malineo.com/img/logo.png) ![enter image description here](http://fr.malineo.com/img/logo.png) 
 ===================
 
 
@@ -13,5 +12,3 @@ Introduction
 -------------
 **1.**  Fork the project via github
 **2.** Clone the project git clone git@github.com:YOUR_USERNAME/rdd-cdd-tdd.git
-
-![](file:///Users/Princess%20Shou/weather.png
