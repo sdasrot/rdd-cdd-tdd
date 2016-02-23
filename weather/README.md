@@ -31,7 +31,7 @@ To see all the options of the package
 ``` node index.js --help ```
 	
 > - Example :
-> ``` node index.js -a courbevoie -v```
+> ``` node index.js -a courbevoie -v -c```
 
 	
 	
