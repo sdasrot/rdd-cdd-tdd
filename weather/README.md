@@ -18,4 +18,4 @@ A simple client to get weather in your terminal.  Instead of looking up the weat
 
 **2.** Clone the project git clone (#git@github.com:YOUR_USERNAME/rdd-cdd-tdd.git)
 
-![](weather.jpg)
+![](weather.png)
