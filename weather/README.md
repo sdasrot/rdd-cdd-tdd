@@ -23,12 +23,18 @@ A simple client to get weather in your terminal.  Instead of looking up the weat
 
 > - Install node js
 > ``` npm install node.js ```
-> - Install the packages of the project 
+> - Install the packages of the project. 
 >	Place yourself in the directory weather 
 	``` npm install ```
 
 
+![](doc.jpg) Usage
+
+To see all the options of the package 
+``` node index.js --help ```
 	
+> - Example
+> ``` node index.js -a courbevoie -v```
 
 	
 	
