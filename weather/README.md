@@ -1,4 +1,4 @@
-![enter image description here](http://fr.malineo.com/img/logo.png) ![enter image description here](http://fr.malineo.com/img/logo.png) 
+![enter image description here](http://fr.malineo.com/img/logo.png) 
 ===================
 
 
