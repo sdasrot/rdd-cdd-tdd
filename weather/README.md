@@ -14,8 +14,18 @@ A simple client to get weather in your terminal.  Instead of looking up the weat
 
 ![](ecrou.jpg) Before begin
 --------------------------
-**1.**  Fork the project via github
+**1.**  Fork the project on https://github.com/92bondstreet/rdd-cdd-tdd
 
-**2.** Clone the project git clone (#git@github.com:YOUR_USERNAME/rdd-cdd-tdd.git)
+**2.** Clone the project git clone git@github.com:YOUR_USERNAME/rdd-cdd-tdd.git
 
-![](weather.png)
+> **Note : Some installations are required**
+
+> - Install node js
+> ``` npm install node.js ```
+> - Install the packages of the project
+	> Place yourself in the directory weather 
+	``` npm install ```
+
+
+
+![](weather.jpg)
